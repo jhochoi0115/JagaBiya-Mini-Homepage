@@ -1,0 +1,114 @@
+.new_post{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: -500px 0 0;
+}
+
+.sub_title{
+    color: rgb(37, 108, 175);
+    font-size: 21px;
+    margin: 0px;
+    margin-left: 8px;
+    border-bottom: solid 3px rgb(95, 95, 95);
+    width: 95%;
+}
+
+.new_area{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 40px 0 0;
+}
+
+.content_arrange_1{
+    display: flex;
+    flex:0.4;
+    margin-top: 10px;
+    margin-left: -340px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content_whole_1{
+    color: black;
+    font-size: 13px;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 3px;
+}
+
+.notice_tag{
+    background-color:cornflowerblue;
+    color: white;
+    font-weight: bolder;
+    border-radius: 3px
+}
+
+.photozone_tag{
+    background-color:pink;
+    color:chocolate;
+    font-weight: bolder;
+    border-radius: 3px;
+}
+
+.tag_button:link, .tag_button:hover, .tag_button:visited, .tag_button:active{
+    color:inherit;
+    text-decoration: none;
+}
+
+.content_arrange_2{
+    display: flex;
+    flex-direction: column;
+    margin-top: -54px;
+    margin-left: 300px;
+}
+
+.content_whole_2{
+    color: black;
+    font-size: 14px;
+    flex: 0.1;
+    border-bottom: 1px dashed lightslategrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 200px;
+    margin-bottom: 9px;
+}
+
+
+.no_of_post{
+    color: skyblue;
+}
+
+.miniroom{
+    background-color: white;
+    border: 2px solid grey;
+    flex: 0.9;
+    margin: 5px 10px 10px 10px;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gif{
+    width: 100%
+}
+
+.menu_button{
+    display: inline-block;
+    background-color: rgb(70, 180, 240);
+    width: 80%;
+    padding: 5px;
+    border-radius: 0 8px 8px 0;
+    color: white;
+    margin-bottom: 18px;
+}
+
+.menu_button:hover{
+    background-color: rgba(28, 153, 255, 0.61);
+}
+

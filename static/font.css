@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+
+.sm{
+    font-family: 'Song Myung', serif;
+}
+
+.nps{
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+
+.gf{
+    font-family: 'Gamja Flower', cursive;
+}
+
+.ys{
+    font-family: 'Yeon Sung', cursive;
+}

@@ -1,0 +1,84 @@
+.guestbook_container{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 60px 100px 70px 270px;
+    padding: 15px;
+    overflow: auto;
+}
+
+.user_title{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: url('../사진첩/color.jpg');
+    font-size: 18px;
+    line-height: 28px;
+    border-style:inset;
+}
+
+.user_no{
+    padding-left: 5px;
+    color: rgb(37, 37, 51);
+}
+
+.post_user{
+    color:rgb(54, 54, 197);
+    font-size: smaller;
+}
+
+.post_date{
+    color: white;
+    font-size:x-small;
+    text-align:inherit;
+}
+
+.comment_section{
+    display: flex;
+    padding: 10px;
+    justify-content: stretch;
+}
+
+.profile_pic_1{
+    width: 20%;
+    border-radius: 40px;
+    background-image: url("../사진첩/IMG_0284.JPG");
+    background-size: 100% 100%;
+}
+
+.profile_pic_2{
+    width: 20%;
+    border-radius: 40px;
+    background-image: url("../사진첩/IMG_0247.JPG");
+    background-size: 100% 100%;
+}
+
+.profile_pic_3{
+    width: 20%;
+    border-radius: 40px;
+    background-image: url("../사진첩/IMG_0243.JPG");
+    background-size: 100% 100%;
+}
+
+.profile_pic_4{
+    width: 20%;
+    border-radius: 40px;
+    background-image: url("../사진첩/IMG_0232.JPG");
+    background-size: 100% 100%;
+}
+
+.profile_pic_5{
+    width: 20%;
+    border-radius: 40px;
+    background-image: url("../사진첩/IMG_0219.JPG");
+    background-size: 100% 100%;
+}
+
+.comment{
+    padding-left: 50px;
+    margin-top:8px;
+    color: black;
+    text-align: justify;
+}
